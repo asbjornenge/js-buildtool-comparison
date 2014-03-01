@@ -36,7 +36,7 @@ With a growing list of buildtools out there, we decided to do some comparison.
 
 ## The tasks
 
-* Process 200+ sass files
+* Process & minify a twitter bootstrap worth of sass files
 
 ## Further reading
 
