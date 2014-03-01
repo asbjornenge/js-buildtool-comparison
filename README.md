@@ -22,7 +22,7 @@ With a growing list of buildtools out there, we decided to do some comparison.
 
 ### [Broccoli](https://github.com/joliss/broccoli)
 
-<img src="http://png-1.findicons.com/files/icons/1187/pickin_time/256/broccoli.png" width="130" style="float:right"/>
+<img src="http://www.asbjornenge.com/cdn/images/broccoli.png" width="130" style="float:right"/>
 
 *Describe Broccoli*
 
