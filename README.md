@@ -45,3 +45,8 @@ With a growing list of buildtools out there, we decided to do some comparison.
 ## The tests
 
 * Process 200+ sass files
+
+## Links and further reading
+
+[Broccoli: First Beta Release](http://www.solitr.com/blog/2014/02/broccoli-first-release/index.html)  
+[Using Grunt? Consider Fez](http://flippinawesome.org/2014/02/24/using-grunt-consider-fez/)
