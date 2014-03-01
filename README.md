@@ -34,7 +34,7 @@ With a growing list of buildtools out there, we decided to do some comparison.
 * Time from zero to hero
 * Small vs Large projects (increasing complexity)
 
-## The tests
+## The tasks
 
 * Process 200+ sass files
 
