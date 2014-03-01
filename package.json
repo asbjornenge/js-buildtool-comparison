@@ -1,0 +1,18 @@
+{
+  "name": "js-buildtool-comparison",
+  "version": "0.0.0",
+  "description": "Comparison of different js build tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asbjornenge/js-buildtool-comparison.git"
+  },
+  "author": "Asbjorn Enge <asbjorn@hanafjedle.net>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/asbjornenge/js-buildtool-comparison/issues"
+  }
+}

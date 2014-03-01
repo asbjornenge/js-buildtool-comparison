@@ -12,7 +12,7 @@ With a growing list of buildtools out there, we decided to do some comparison.
 
 ### [Gulp](http://gulpjs.com/)
 
-<img src="https://raw2.github.com/gulpjs/artwork/master/gulp-2x.png" width="90" />
+<img src="https://raw2.github.com/gulpjs/artwork/master/gulp.png" width="80" />
 
 *Describe Gulpjs*
 
