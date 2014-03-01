@@ -30,8 +30,8 @@ With a growing list of buildtools out there, we decided to do some comparison.
 
 ## The metrics
 
-* Speed
-* Ease of use
+* Buildspeed
+* Time from zero to hero
 * Small vs Large projects (increasing complexity)
 
 ## The tests
