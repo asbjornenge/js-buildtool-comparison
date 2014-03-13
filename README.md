@@ -47,7 +47,7 @@ Drid å debugga.
 |              | Gulp    | Grunt   | Broccoli  | Fez    |
 |------------- | ------- | ------- | --------  | ------ |
 | zero-to-hero | 19 min  | 22 min  | 31 min    | 36 min |
-| processing   | 5.65 ms | 234 ms  | 370 ms    | 300 ms |
+| processing   | 5.65 ms | 234 ms  | 43 ms     | 3 ms   |
 
 ## Further reading
 
