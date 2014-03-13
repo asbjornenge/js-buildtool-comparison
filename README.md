@@ -40,10 +40,10 @@ With a growing list of buildtools out there, we decided to do some comparison.
 
 ## Results
 
-### Grunt
-
-from zero to hero: 22 minutt
-prcessing time: 234 ms
+&nbsp; | Grunt | Gulp | Broccoli
+--- | --- | ---
+ zero-to-hero | 22 min | 19 min | 
+ processing | 234 ms | 5.65 ms
 
 ## Further reading
 
