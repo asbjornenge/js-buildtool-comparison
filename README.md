@@ -40,10 +40,10 @@ With a growing list of buildtools out there, we decided to do some comparison.
 
 ## Results
 
-&nbsp; | Grunt | Gulp | Broccoli
---- | --- | ---
- zero-to-hero | 22 min | 19 min | 
- processing | 234 ms | 5.65 ms
+|              | Grunt  | Gulp    | Broccoli  |
+|------------- | ------ | ------- | --------  |
+| zero-to-hero | 22 min | 19 min  | n/a       |
+| processing   | 234 ms | 5.65 ms | n/a       |
 
 ## Further reading
 
