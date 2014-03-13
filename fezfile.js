@@ -1,5 +1,6 @@
-var fez  = require("fez"),
-    less = require("fez-less");
+var fez   = require("fez"),
+    less  = require("fez-less"),
+    clean = require("fez-clean-css");
 
 process.chdir('input/less')
 
@@ -8,13 +9,11 @@ exports.build = function(spec) {
     spec.rule(file, less.imports(file), file.patsubst("%.less", "../../output/fez.css"), less());
   });
 
-  // spec.with("dist/*.min.css").all(function(files) {
-  //   spec.rule(files, "dist.min.css", concat());
-  // });
+  process.chdir('../../output')
 
-  // spec.with("css/*.css").each(function(file) {
-  //   spec.rule(file, file.patsubst("css/%.css", "dist/%.min.css"), clean());
-  // });
+  spec.with("fez.css").one(function(file) {
+    spec.rule(file, file.patsubst("fez.css", "fez.min.css"), clean());
+  });
 };
 
 exports.default = exports.build;
