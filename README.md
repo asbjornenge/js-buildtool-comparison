@@ -46,8 +46,8 @@ Drid å debugga.
 
 |              | Grunt  | Gulp    | Broccoli  |
 |------------- | ------ | ------- | --------  |
-| zero-to-hero | 22 min | 19 min  | n/a       |
-| processing   | 234 ms | 5.65 ms | n/a       |
+| zero-to-hero | 22 min | 19 min  | 31 min    |
+| processing   | 234 ms | 5.65 ms | 370 ms    |
 
 ## Further reading
 
