@@ -38,6 +38,13 @@ With a growing list of buildtools out there, we decided to do some comparison.
 
 * Process & minify a twitter bootstrap worth of sass files
 
+## Results
+
+### Grunt
+
+from zero to hero: 22 minutt
+prcessing time: 234 ms
+
 ## Further reading
 
 [Broccoli: First Beta Release](http://www.solitr.com/blog/2014/02/broccoli-first-release/index.html)  

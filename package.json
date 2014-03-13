@@ -14,5 +14,10 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/asbjornenge/js-buildtool-comparison/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-sass": "~0.11.0",
+    "time-grunt": "~0.2.10"
   }
 }
