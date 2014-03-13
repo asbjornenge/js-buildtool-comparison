@@ -16,6 +16,10 @@ With a growing list of buildtools out there, we decided to do some comparison.
 
 *Describe Gulpjs*
 
+**Oppsummering:**  
+
+Drid å debugga.
+
 ### [Broccoli](https://github.com/joliss/broccoli)
 
 <img src="http://www.asbjornenge.com/cdn/images/broccoli.png" width="130" />
