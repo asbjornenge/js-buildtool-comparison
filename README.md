@@ -1,14 +1,13 @@
 # JS Buildtool Comparison
 
-There is a growing number of available javascript buildtools our there.  
+There is a growing number of available javascript buildtools out there.  
 Trying to get a better overview, my local [jug](http://sjug.io) decided to have a hacknight and do some comparison.
 
 ## The Contenders
 
 ### [Grunt](http://gruntjs.com/) ★★★☆☆
 
-Grunt is the current king of the buildtools.  
-It is widely used and there are lots of available [grunt-tasks](https://www.npmjs.org/search?q=grunt).
+Grunt is the current king of the buildtools. It is widely used and there are lots of available [grunt-tasks](https://www.npmjs.org/search?q=grunt).
 Grunt has received some critique for being slow and for a complex configuration file.
 
 <img src="http://gruntjs.com/img/grunt-logo.png" width="150" />
@@ -17,6 +16,8 @@ Grunt has received some critique for being slow and for a complex configuration 
 
 Even with our collective experience with Grunt it took us quite a while to get the task running as we wanted. 
 It has by far the slowest build time of the group.
+The syntax quickly gets messy. 
+But, we all love Grunt. It gets the job done, has plugins for everything and it has served us well!
 
 #### Timing
 
