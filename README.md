@@ -1,7 +1,7 @@
 # JS Buildtool Comparison
 
 There is a growing number of available javascript buildtools our there.  
-Trying to get a better overview, my local jug decided to have a hacknight and do some comparison.
+Trying to get a better overview, my local [jug](http://sjug.io) decided to have a hacknight and do some comparison.
 
 ## The Contenders
 
@@ -81,7 +81,6 @@ We used the same approach as above and did the timing manullay in the fezfile. A
 
 * Buildspeed
 * Time from zero to hero
-* Small vs Large projects (increasing complexity)
 
 ## The tasks
 
@@ -97,5 +96,7 @@ We used the same approach as above and did the timing manullay in the fezfile. A
 
 ## Further reading
 
+[Getting started with Grunt](http://gruntjs.com/getting-started)
+[Getting started with Gulp](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
 [Broccoli: First Beta Release](http://www.solitr.com/blog/2014/02/broccoli-first-release/index.html)  
 [Using Grunt? Consider Fez](http://flippinawesome.org/2014/02/24/using-grunt-consider-fez/)
