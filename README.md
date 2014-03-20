@@ -35,7 +35,7 @@ One of the main tings about gulp is that a build pipe only reads once and writes
 
 In general we really liked gulp. It has very nice syntax and is blazing fast. 
 The one thing we found confusing was error reporting; the output wasn't very helpful.
-Even so, gulp **WIN**s the **zero-to-hero** challenge.
+Even so, gulp is the **WINNER** of the **zero-to-hero** challenge.
 
 #### Timing
 
@@ -71,7 +71,7 @@ Fez is an über fast, highly configurable, extremely powerful, and somewhat weir
 
 #### Summary
 
-Fez is a bit of an oddball. The syntax is actually quite interesting, and it's crazy fast! It **WIN**s our **buildpseed** challenge! It took us a while to get it working though. 
+Fez is a bit of an oddball. The syntax is actually quite interesting, and it's crazy fast! It is the **WINNER** of our **buildpseed** challenge! It took us a while to get it working though. 
 We were unable to find a suitable sass plugin, so we had to use less for fez.
 
 #### Timing
