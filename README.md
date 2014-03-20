@@ -91,7 +91,7 @@ We used the same approach as above and did the timing manullay in the fezfile. A
 |              | Gulp    | Grunt   | Broccoli  | Fez    |
 |------------- | ------- | ------- | --------  | ------ |
 | zero-to-hero | 19 min  | 22 min  | 31 min    | 36 min |
-| taks: sass   | 5.65 ms | 127 ms  | 43 ms     | 3 ms   |
+| task: sass   | 5.65 ms | 127 ms  | 43 ms     | 3 ms   |
 | total        |         | 234 ms  |           |        |
 
 ## Further reading
