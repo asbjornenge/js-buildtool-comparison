@@ -17,7 +17,7 @@ Grunt has received some critique for being slow and for a complex configuration 
 Even with our collective experience with Grunt it took us quite a while to get the task running as we wanted. 
 It has by far the slowest build time of the group.
 The syntax quickly gets messy. 
-But, we all love Grunt. It gets the job done, has plugins for everything and it has served us well!
+But, we all :heart: Grunt. It gets the job done, has plugins for everything and it has served us well!
 
 #### Timing
 
@@ -34,8 +34,8 @@ One of the main tings about gulp is that a build pipe only reads once and writes
 #### Summary
 
 In general we really liked gulp. It has very nice syntax and is blazing fast. 
-The one thing we found confusing was error reporting. The output wasn't very helpful.
-Even so, gulp wins the *zero-to-hero* challenge.
+The one thing we found confusing was error reporting; the output wasn't very helpful.
+Even so, gulp **WIN**s the **zero-to-hero** challenge.
 
 #### Timing
 
@@ -63,7 +63,7 @@ Broccoli is still beta software, so some of it can be excused. It's not ready ye
 Broccoli itself doesn't report any timing data, and we could not find a plugin. So we ended up doing <code>t2 - t1</code> in the brocfile.
 Please let us know (by opening an issue or PR) if this is not ideal for timing broccoli tasks.
 
-### [Fez](http://fez.github.io/)
+### [Fez](http://fez.github.io/) ★★☆☆☆
 
 Fez is an über fast, highly configurable, extremely powerful, and somewhat weird general purpose build tool written in JavaScript. Build specs are created with a simple JavaScript-based DSL. The set of rules defined in the spec is used to construct a build graph which is efficiently traversable, enabling Fez to do only the work which needs to be done, and to do work in parallel when it can.
 
@@ -71,7 +71,7 @@ Fez is an über fast, highly configurable, extremely powerful, and somewhat weir
 
 #### Summary
 
-Fez is a bit of an oddball. The syntax is actually quite interesting, and it's crazy fast! It took us a while to get it working though. 
+Fez is a bit of an oddball. The syntax is actually quite interesting, and it's crazy fast! It **WIN**s our **buildpseed** challenge! It took us a while to get it working though. 
 We were unable to find a suitable sass plugin, so we had to use less for fez.
 
 #### Timing
